@@ -1,0 +1,11 @@
+## Interface: 20505
+## Title: Doigt de poulet (BCC)
+## Author: Daeler
+## Version: 4.0
+## Notes: DDPoulet - BCC Anniversary Edition
+## SavedVariables: DDPouletDB_BCC
+
+DDPoulet_BCC.lua
+Options.lua
+
+
